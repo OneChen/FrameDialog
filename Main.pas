@@ -55,7 +55,7 @@ end;
 procedure TForm1.OkClick(Sender: TObject);
 begin
      CancelClick(Sender);
-     ShowMessage('Ok');
+//     ShowMessage('Ok');
 end;
 
 procedure TForm1.CancelClick(Sender: TObject);
